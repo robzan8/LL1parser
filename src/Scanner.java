@@ -1,3 +1,7 @@
+import java.io.IOException;
+import java.io.Reader;
+import java.io.StreamTokenizer;
+
 class Scanner {
 	public enum TokenType { EQUAL, COMMA, NOT, L_PAREN, R_PAREN, L_BRACE, R_BRACE, IDE, EOF, INVALID_CHAR };
 

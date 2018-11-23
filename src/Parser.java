@@ -1,3 +1,7 @@
+import java.io.IOException;
+import java.io.Reader;
+import java.util.ArrayList;
+
 public class Parser {
 	private Scanner scanner;
 	private Scanner.TokenType currentToken;

@@ -1,3 +1,6 @@
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+
 class VariableIterator implements Iterator<String> {
 	private Variable variable;
 	private int currentValue;

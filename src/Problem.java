@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Problem {
 	public ArrayList<Variable> variables;
 	public ArrayList<EqConstraint> eqConstraints;

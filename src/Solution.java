@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+
 public class Solution {
 	public HashMap<String, String> assignment;
 	public ArrayList<Constraint> explanation;

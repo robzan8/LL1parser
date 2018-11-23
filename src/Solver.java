@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+
 public class Solver {
 	protected Problem problem;
 	protected VariableIterator[] varIterators;
